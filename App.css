@@ -1,0 +1,43 @@
+#topsection{
+  background-image: url(/src/assets/img/bg-masthead.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 400px;
+}
+#heading{
+  text-align: center;
+  padding-top: 150px;
+  color: white;
+}
+#input{
+  height: 35px;
+  width: 450px;
+  border-radius: 5px;
+}
+#section2{
+  padding: 100px 100px 100px 100px;
+}
+.para1{
+  text-align: center;
+  padding-top: 90px;
+}
+.images{
+height: 300px;
+width: 100%;
+}
+.myimage{
+  border-radius: 50%;
+  height: 150px;
+
+}
+.sec4h{
+  padding: 10px 30px 30px 30px;
+}
+a{
+  padding: 10px 10px 10px 10px;
+}
+.footer{
+padding-top: 40px;
+}
